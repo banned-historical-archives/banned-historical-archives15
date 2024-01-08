@@ -32,5 +32,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives15/feace156-f8ca-44c2-b5fb-eef5b5155cb3.pdf"
+  "path": "/archives15/feace156-f8ca-44c2-b5fb-eef5b5155cb3.pdf",
+  "resource_type": "book"
 }
