@@ -142,7 +142,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives15/bd7773d8-525f-4a12-bebe-64c6fba5d3b3.pdf",
+  "path": "bd7773d8-525f-4a12-bebe-64c6fba5d3b3.pdf",
   "resource_type": "book",
   "version": 2
 }

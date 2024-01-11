@@ -82,7 +82,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives15/9594a22e-3cd7-4739-8012-a75835eac6e3",
+  "path": "9594a22e-3cd7-4739-8012-a75835eac6e3",
   "resource_type": "book",
   "version": 2
 }

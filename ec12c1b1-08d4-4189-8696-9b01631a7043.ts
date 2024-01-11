@@ -156,7 +156,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives15/ec12c1b1-08d4-4189-8696-9b01631a7043.pdf",
+  "path": "ec12c1b1-08d4-4189-8696-9b01631a7043.pdf",
   "resource_type": "book",
   "version": 2
 }
