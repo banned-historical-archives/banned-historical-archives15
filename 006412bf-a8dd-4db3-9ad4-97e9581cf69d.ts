@@ -4,7 +4,7 @@ export default {
     "name": "彻底揭发批判王张江姚反党集团发言材料汇编（十）",
     "internal": false,
     "official": false,
-    "type": "img",
+    "type": "img", 
     "author": "中共山东省委宣传部",
     "files": [
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives15/main/006412bf-a8dd-4db3-9ad4-97e9581cf69d/1.jpg",
